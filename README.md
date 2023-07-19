@@ -1,0 +1,1 @@
+# contao-news-related-label
