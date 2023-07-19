@@ -1,0 +1,3 @@
+<?php
+$this->empty = $this->labelEmpty ?: $this->empty;
+$this->extend('mod_newslist'); 
